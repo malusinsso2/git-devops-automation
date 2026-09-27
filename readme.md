@@ -10,7 +10,7 @@ Espero aprender no menor tempo possível o que será necessário para atender o 
 
 A pressão é alta pois o analista anterior a mim era sênior, então enfrentarei grandes desafios pela frente. Nunca trabalhei com Cloud, muito menos com automação. 
 
-Primeira experiência que me trará autos aprendizados.
+Primeira experiência que me trará altos aprendizados.
 
 ### Sobre mim
 
