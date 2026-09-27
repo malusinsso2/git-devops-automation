@@ -6,7 +6,7 @@ Estou utilizando o curso do Ieso para DevOps como porta de entrada para minhas a
 
 ## Expectativas
 
-Espero aprender no menor tempo possível o que será necessário para atende o cliente.
+Espero aprender no menor tempo possível o que será necessário para atender o cliente.
 
 A pressão é alta pois o analista anterior a mim era sênior, então enfrentarei grandes desafios pela frente. Nunca trabalhei com Cloud, muito menos com automação. 
 
